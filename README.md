@@ -29,10 +29,10 @@ The buoy collects environmental and positional data and transmits it to a centra
 
 ## Repository Contents
 
-- `/docs/dashboard-wireframe.png` – Dashboard UI mockup (image)
+- `/docs/dashboard-wireframe.jpeg` – Dashboard UI mockup (image)
 - `/docs/dashboard-requirements.md` – Functional dashboard requirements
-- `/docs/integration-test-cases.md` – Integration test cases validating system behavior
+- `/docs/integration-test-cases.md` – Integration test cases validating system behaviour
 
 ---
 
-This repository documents the functional behavior and verification strategy for the buoy monitoring system.
+This repository documents the functional behaviour and verification strategy for the buoy monitoring system.
